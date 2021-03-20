@@ -1,0 +1,52 @@
+*{
+  padding: 0;
+  margin: 0;
+  }
+  .container{
+  width:75%;
+  margin: auto;
+  text-align: center;
+}
+body{
+  background: linear-gradient(to right, #03ffe6, #033eff );
+}
+.dice{
+display: inline-block;
+text-align: center;
+margin: 20px;
+}
+h1{
+  font-size: 6rem;
+  font-family: 'Lobster', cursive;
+  color: #f50288;
+  text-shadow: 5px 0 #232931;
+  padding: 20px;
+}
+p{
+  font-size: 2.5rem;
+  color: black;
+  padding: 18px;
+}
+img{
+  width:80%;
+  margin: 10px
+}
+button{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color:red;
+  background-color: #f5e571;
+  padding:10px;
+  border-radius: 18%;
+  cursor: pointer;
+}
+footer{
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 56px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: white;
+  background-color: grey;
+}
